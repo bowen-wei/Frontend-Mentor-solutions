@@ -1,8 +1,8 @@
-[Live](https://bowen-wei.github.io/qr-code-component/) 
+# [Live](https://bowen-wei.github.io/qr-code-component/) 
 
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg | width = 250)
+![Design preview for the QR code component coding challenge](img src="/design/desktop-preview.jpg" width = 250)
 
 ## Welcome! 👋
 
