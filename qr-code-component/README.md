@@ -1,4 +1,4 @@
-#[Live](https://bowen-wei.github.io/qr-code-component/)
+[Live](https://bowen-wei.github.io/qr-code-component/) 
 
 # Frontend Mentor - QR code component
 
