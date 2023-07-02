@@ -3,7 +3,7 @@
 # Frontend Mentor - QR code component
 
 Design preview for the QR code component coding challenge<br>
-<img src="./design/desktop-preview.jpg" width = 400>
+<img src="./design/desktop-preview.jpg" width = 600>
 
 ## Welcome! 👋
 
