@@ -6,6 +6,9 @@
 }
 
 body {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
   font-size: 15px;
@@ -20,9 +23,6 @@ body {
   text-align: center;
   width: max(20%, 20rem);
   border-radius: 20px;
-  margin: 0 auto;
-  margin-top: 8rem;
-  margin-bottom: 8rem;
   box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, .4);
 
 }
