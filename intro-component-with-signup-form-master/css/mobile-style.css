@@ -1,0 +1,55 @@
+:root {
+    --primary-red: hsl(0, 100%, 74%);
+    --primary-green: hsl(154, 59%, 51%);
+    --accent-blue: hsl(248, 32%, 49%);
+    --neutral-dark-blue: hsl(249, 10%, 26%);
+    --neutral-grayish-blue: hsl(246, 25%, 77%);
+    font-size: 16px;
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+body {
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url(/images/bg-intro-mobile.png);
+    background-repeat: repeat-y;
+    background-position: top center;
+    background-color: var(--primary-red);
+}
+
+main {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.description-block, #promotion-info, #claim-button, #policy {
+    text-align: center;
+}
+
+.description-block, #promotion-info, #claim-button {
+    color: white;
+}
+
+/*description section*/
+.description-block {
+    padding: 3.5rem 0;
+}
+
+
+.description-block p {
+    padding: 1rem 12px 12px 0;
+}
+
+
